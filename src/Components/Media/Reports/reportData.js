@@ -83,6 +83,10 @@ const reportData = [
         summary: "Statement of expenses and donations received for Quarterly Finance Reports",
         button: [
             {
+                interval: "JAN-MAR 2025",
+                link: "/assets/pdf/Quaterly_reports/JAN-MAR 2025 Quaterly Report.pdf"
+            },
+            {
                 interval: "OCT-DEC 2024",
                 link: "/assets/pdf/Quaterly_reports/OCT-DEC 2024 Quaterly Report.pdf"
             },
@@ -91,7 +95,7 @@ const reportData = [
                 link: "/assets/pdf/Quaterly_reports/JULY-SEPTEMBER 2024 Quarterly Report.pdf"
             },
             {
-                interval: "APR-JUNE 2024",
+                interval: "APR-JUN 2024",
                 link: "/assets/pdf/Quaterly_reports/APR-JUNE 2024 Quarterly Report-1.pdf"
             },
             {

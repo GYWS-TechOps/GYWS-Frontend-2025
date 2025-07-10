@@ -1,27 +1,23 @@
 const Data = [
     {
-        "name": "Afeerah Naseem",
+        "name": "Puneet Gupta",
         "position": "UG Coordinator",
-        "imageUrl": "/assets/images/members/Heads24/AfeerahNaseem.jpg",
-        "facebookLink": "https://www.facebook.com/profile.php?id=100087581197416",
-        "linkedinLink": "https://www.linkedin.com/in/afeerah-naseem-59278a268/",
-        "email": "afeerah.naseem@gyws.org"
+        "imageUrl": "/assets/images/members/Heads25/PuneetGupta.jpg",
+        "facebookLink": "https://www.facebook.com/profile.php?id=100056484364626&mibextid=ZbWKwL",
+        "linkedinLink": "https://www.linkedin.com/in/puneet-gupta-316579297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "email": "puneet.gupta@gyws.org"
     },
     {
-        "name": "Adeeba Khan",
+        "name": "Madhushree Dujari",
         "position": "UG Coordinator",
-        "imageUrl": "/assets/images/members/Heads24/AdeebaKhan.png",
-        "facebookLink": "https://www.facebook.com/profile.php?id=100087594696715",
-        "linkedinLink": "https://www.linkedin.com/in/adeeba-khan-0168a1257/",
-        "email": "adeeba.khan@gyws.org"
+        "imageUrl": "/assets/images/members/Heads25/MadhushreeDujari.jpeg",
     },
     {
-        name: "Mohit Pant",
-        facebookLink: "https://www.facebook.com/profile.php?id=100085542944939",
-        linkedinLink: "https://www.linkedin.com/in/mohit-pant-46790624b/",
-        email: "mohit.pant@gyws.org",
-        imageUrl: "/assets/images/members/Heads24/Mohit Pant.jpg",
-        position: "UG Coordinator"
+        name: "D Saketh Ram",
+        email: "d.ram@gyws.org",
+        imageUrl: "/assets/images/members/Heads25/DSakethRam.jpg",
+        position: "UG Coordinator",
+        linkedinLink: "https://www.linkedin.com/in/devanaboyina-saketh-ram-818944298?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlddPXZ8CS06nl0HUKk8I1w%3D%3D",
       },
 ]
 

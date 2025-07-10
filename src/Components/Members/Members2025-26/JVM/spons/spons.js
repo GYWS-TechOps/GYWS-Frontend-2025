@@ -1,49 +1,49 @@
 const Data = [
     {
-        "name": "Adeeba Alam Ansari",
+        "name": "Vivekadithya Yayavaram",
         "position": "Sponsorship Head",
-        "imageUrl": "/assets/images/members/Heads24/Adeeba ansari.jpg",
-        "facebookLink": "https://www.facebook.com/profile.php?id=100087442703521",
-        "linkedinLink": "https://www.linkedin.com/in/adeeba-alam-ansari-b3aba1252/",
-        "email": "adeeba.ansari@gyws.org"
+        "imageUrl": "/assets/images/members/Heads25/VivekadithyaYayavaram.jpg",
+        "facebookLink": "https://www.facebook.com/profile.php?id=61551520094855",
+        "linkedinLink": "https://www.linkedin.com/in/vivekadithya-yayavaram-8002a2291/",
+        "email": "y.vivekadithya@gyws.org"
     },
     {
-        name: "Utkarsh",
+        name: "Priyanshi Gupta",
         position: "Sponsorship Head",
-        imageUrl: "/assets/images/members/Heads24/Utkarsh.jpg",
-        facebookLink: "https://m.facebook.com/people/Utkarsh-Chaand/100086954527870/",
-        linkedinLink: "https://www.linkedin.com/in/utkarsh-246903274",
-        email: "utkarsh@gyws.org"
-    },
-    // ,{
-    //     name: "Hemant Kamble",
-    //     position: "Sponsorship Head",
-    //     imageUrl: "/assets/images/members/Heads24/Hemant Kamble.jpg",
-    //     facebookLink: "https://www.facebook.com/hemant.kamble.9803150?mibextid=kFxxJD",
-    //     linkedinLink: "https://www.linkedin.com/in/hemant-kamble-7b5378229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    //     email: "hemant.kamble@gyws.org"
-    // }, 
+        imageUrl: "/assets/images/members/Heads25/PriyanshiGupta.jpg",
+        facebookLink: "https://www.facebook.com/profile.php?id=61550386194970",
+        linkedinLink: "https://www.linkedin.com/in/priyanshi-gupta-5a2306285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        email: "priyanshi.gupta@gyws.org"
+    }, 
     {
-        name: "Syed Mehran Ahmed",
+        name: "Manvitha Reddy",
         position: "Sponsorship Head",
-        imageUrl: "/assets/images/members/Heads24/Syed Ahmed.jpg",
-        facebookLink: "https://www.facebook.com/profile.php?id=100087564341044",
-        linkedinLink: "https://www.linkedin.com/in/syedmehran26",
-        email: "syed.ahmed@gyws.org"
+        imageUrl: "/assets/images/members/Heads25/ManvithaReddy.jpg",
+        facebookLink: "https://www.facebook.com/share/1PkvFYhVBi/?mibextid=qi2Omg",
+        linkedinLink: "https://www.linkedin.com/in/manvitha-reddy-julakanti-582825295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        email: "julakanti.reddy@gyws.org"
     }, {
-        name: "Siddhesh Agrawal",
+        name: "Mahaveer Solanki",
         position: "Sponsorship Head",
-        imageUrl: "/assets/images/members/Heads24/Siddhesh Agrawal.jpg",
-        facebookLink: "https://www.facebook.com/profile.php?id=100086241404924",
-        linkedinLink: "https://www.linkedin.com/in/siddhesh-agrawal-3ba110252/",
-        email: "siddhesh.agrawal@gyws.org"
+        imageUrl: "/assets/images/members/Heads25/MahaveerSolanki.jpg",
+        facebookLink: "https://www.facebook.com/share/1ATizgcib8/",
+        linkedinLink: "https://www.linkedin.com/in/mahaveer-solanki-b58a40288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        email: "mahaveer.solanki@gyws.org"
     },{
-        name: "Nazmi Syed",
+        name: "Krishna Ashrai Chochipatla",
         position: "Sponsorship Head",
-        imageUrl: "/assets/images/members/Heads24/Nazmi Syed.jpg",
-        facebookLink: "https://www.facebook.com/profile.php?id=100087177596392&mibextid=ZbWKwL",
-        linkedinLink: "https://www.linkedin.com/in/nazmi-syed-63980b269",
-        email: "nazmi.syed@gyws.org"
+        imageUrl: "/assets/images/members/Heads25/KrishnaAshraiChochipatla.jpg",
+        facebookLink: "https://www.facebook.com/share/1AVK2AdbUd/",
+        linkedinLink: "https://www.linkedin.com/in/krishna-ashrai?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        email: "krishna.chochipatla@gyws.org"
+    },
+    {
+        name: "Sai Surendra Rongali",
+        position: "Sponsorship Head",
+        imageUrl: "/images/profile.png",
+        // facebookLink: "https://www.facebook.com/profile.php?id=100087177596392&mibextid=ZbWKwL",
+        // linkedinLink: "https://www.linkedin.com/in/nazmi-syed-63980b269",
+        // email: "nazmi.syed@gyws.org"
     },
 ]
 

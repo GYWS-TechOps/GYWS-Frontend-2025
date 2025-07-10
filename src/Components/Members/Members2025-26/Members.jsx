@@ -185,8 +185,8 @@ function Members() {
                 {/* New li with dropdown */}
               </ul>
 
-              {/* <h2>Intiatives</h2> */}
-              {/* <ul>
+               <h2>Intiatives</h2> 
+               <ul>
                 <Link
                   to="/member/jvm"
                   onClick={() => {
@@ -223,7 +223,7 @@ function Members() {
                     Expansion Initiative
                   </li>
                 </Link>
-              </ul> */}
+              </ul> 
             </div>
           </div>
         </div>

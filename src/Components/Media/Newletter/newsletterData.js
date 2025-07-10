@@ -1,5 +1,17 @@
 const newsletterData = [
     {
+        title: "PRATIRAV, JULY-SEPTEMBER, 2024 EDITION",
+        description: "We present the July-September, 2024 edition of our Quarterly Newsletter 'Pratirav'. A glance at the newsletter would let you know all the initiatives undertaken by us and the progress made in this duration.",
+        link: "/assets/pdf/Pratirav/Pratirav Jul-Sep 2024.pdf",
+        imageUrl: "/assets/pratirav/Pratirav_Jul_Sep_2024.png"
+    },
+    {
+        title: "PRATIRAV, APRIL-JUNE, 2024 EDITION",
+        description: "We present the April-June, 2024 edition of our Quarterly Newsletter 'Pratirav'. A glance at the newsletter would let you know all the initiatives undertaken by us and the progress made in this duration.",
+        link: "/assets/pdf/Pratirav/Pratirav Apr-Jun 2024.pdf",
+        imageUrl: "/assets/pratirav/Pratirav_Apr_Jun_2024.png"
+    },
+    {
         title: "PRATIRAV, JANUARY-MARCH, 2024 EDITION",
         description: "We present the January-March, 2024 edition of our Quarterly Newsletter 'Pratirav'. A glance at the newsletter would let you know all the initiatives undertaken by us and the progress made in this duration.",
         link: "/assets/pdf/Pratirav/Pratirav Jan-Mar 2024.pdf",

@@ -1,11 +1,11 @@
 const Data =[
     {
-        name: "Advait Gokhale",
-        position: "Chief Executive Officer, LiGHT",
-        imageUrl: "/assets/images/members/GB24/Advait Gokhale.png",
-        facebookLink: "https://www.facebook.com/profile.php?id=100074639880196",
-        linkedinLink: "https://www.linkedin.com/in/advait-gokhale-399a0b236/",
-        email: "advait.gokhale@gyws.org"
+        name: "Megha Singhal",
+        position:"Chief Executive Officer, LiGHT",
+        imageUrl: "/assets/images/members/GB25/Megha Singhal.jpg",
+        facebookLink: "https://www.facebook.com/megha.singhal.35325/",
+        linkedinLink: "https://www.linkedin.com/in/megha-singhal-7a9a3926a/",
+        email: "megha.singhal@gyws.org"
     },
 ]
 

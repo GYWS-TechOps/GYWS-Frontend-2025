@@ -10,7 +10,7 @@ export default function Card (props) {
                 </div>
                 <div className="newsletter_card_content">
                     <h2>{props.title}</h2>
-                    <p>{props.description}</p>
+                    <p>{props.description}</p> 
                     <a href={props.link} target="_blank" rel="noreferrer">Read More</a>
                 </div>
             </div>

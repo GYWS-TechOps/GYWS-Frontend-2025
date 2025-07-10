@@ -7,7 +7,7 @@ import Design from "./Design/design.jsx";
 import Media from "./Media/Media.jsx";
 import "./jvm.css";
 
-function JVM () {
+function JVM() {
   return (
     <>
       <div className="chlna">
@@ -22,7 +22,7 @@ function JVM () {
       <Src />
       <br />
       <br />
-      <Tech /> 
+      <Tech />
       <br />
       <br />
       <Spons />

@@ -1,43 +1,36 @@
 const Data = [
     {
-        name: "Akshat Verma",
-        linkedinLink: "http://www.linkedin.com/in/akshatvermaa",
-        email: "akshat.verma@gyws.org",
-        imageUrl: "/assets/images/members/Heads24/Akshat Verma.jpg",
+        name: "Sharanya Baidya",
+         facebookLink: "https://www.facebook.com/profile.php?id=61554570063765",
+        linkedinLink: "https://www.linkedin.com/in/sharanya-baidya-994910297/",
+        email: "sharanya.baidya@gyws.org",
+        imageUrl: "/assets/images/members/Heads25/SharanyaBaidya.jpg",
         position: "SRC Head"
       },
     
       {
-        name: "Ritil Ranjan",
-        facebookLink: "https://www.facebook.com/ritil.ranjan.1?mibextid=JRoKGi",
-        linkedinLink: "https://www.linkedin.com/in/ritil-ranjan-0b197924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        email: "ritil.ranjan@gyws.org",
-        imageUrl: "/assets/images/members/Heads24/Ritil ranjan.jpg",
+        name: "Aaratrika Bhattacharya",
+        facebookLink: "https://www.facebook.com/share/18uKNsaEmT/",
+        linkedinLink: "https://www.linkedin.com/in/aaratrika-bhattacharya-61176a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        email: "aaratrika.bhattacharya@gyws.org",
+        imageUrl: "/assets/images/members/Heads25/AaratrikaBhattacharya.jpg",
         position: "SRC Head"
       },
       {
-        name: "Jaydeep Parmar",
-        facebookLink: "https://www.facebook.com/profile.php?id=100017491156001",
-        linkedinLink: "https://www.linkedin.com/in/jaydeep-parmar37",
-        email: "jaydeep.parmar@gyws.org",
-        imageUrl: "/assets/images/members/Heads24/Jaydeep parmar.jpg",
+        name: "Khushi Srivastava",
+        facebookLink: "https://www.facebook.com/share/4tVqAjjFVomedZLm/?mibextid=qi2Omg",
+        linkedinLink: "https://www.linkedin.com/in/khushi-srivastava-7b6b772a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        email: "khushi.srivastava@gyws.org",
+        imageUrl: "/assets/images/members/Heads25/KhushiSrivastava.jpg",
         position: "SRC Head"
       },
       {
-        name: "Simran Jangral",
+        name: "T Sritan Reddy",
         position: "SRC Head",
-        imageUrl: "/assets/images/members/Heads24/Simran Jangral.png",
-        facebookLink: "https://www.facebook.com/profile.php?id=100087633905026",
-        linkedinLink: "https://www.linkedin.com/in/simran-jangral",
-        email: "simran.jangral@gyws.org"
-    },
-    {
-        "name": "Biswajit Das",
-        "position": "SRC Head",
-        "imageUrl": "/assets/images/members/Heads24/BiswajitDas.jpg",
-        "facebookLink": "https://www.facebook.com/profile.php?id=100034915032616&mibextid=ZbWKwL",
-        "linkedinLink": "https://www.linkedin.com/in/biswajit-das-204b9b252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "email": "biswajit.das@gyws.org"
+        imageUrl: "/assets/images/members/Heads25/TSritanReddy.jpg",
+        facebookLink: "https://www.facebook.com/profile.php?id=100095289594002",
+        linkedinLink: "https://www.linkedin.com/in/t-sritan-reddy-7142b2291/",
+        email: "t.reddy@gyws.org"
     }
   
     

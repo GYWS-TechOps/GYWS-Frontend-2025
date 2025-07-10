@@ -3,26 +3,28 @@ const data = [
         name: "Dr. Bhaskar Bhowmik",
         position: "",
         imageUrl: "/assets/images/members/Dr. Bhaskar Bhowmik.jpg",
-        facebookLink: "https://www.facebook.com/gyws.iitkgp",
+        email: " bhaskar@see.iitkgp.ac.in",
         linkedinLink: "https://www.linkedin.com/company/gopali-youth-welfare-society/mycompany/"
     },
     {
         name: "Prof. Damodar Maiti",
         position: "",
         imageUrl: "/assets/images/members/Prof. Damodar Maiti.jpg",
-        facebookLink: "https://www.facebook.com/gyws.iitkgp",
+        email: "dmaity@civil.iitkgp.ernet.in",
         linkedinLink: "https://www.linkedin.com/company/gopali-youth-welfare-society/mycompany/"
     },
     {
         name: "Prof. D.K. Maiti",
         position: "",
         imageUrl: "/assets/images/members/Prof. D.K. Maiti.jpg",
+        email:" dkmaiti@aero.iitkgp.ac.in",
         facebookLink: "https://www.facebook.com/gyws.iitkgp",
         linkedinLink: "https://www.linkedin.com/company/gopali-youth-welfare-society/mycompany/"
     },{
         name: "Prof. Goutam Sen",
         position: "",
         imageUrl: "/assets/images/members/gsen.png",
+        email:"gsen@iem.iitkgp.ac.in",
         facebookLink: "https://www.facebook.com/gyws.iitkgp",
         linkedinLink: "https://www.linkedin.com/company/gopali-youth-welfare-society/mycompany/"
     },
@@ -30,6 +32,7 @@ const data = [
         name: "Prof. Santanu Roy",
         position: "",
         imageUrl: "/assets/images/members/Santanu Roy.jpg",
+        email:"santanu.roy@adamasuniversity.ac.in",
         facebookLink: "https://www.facebook.com/gyws.iitkgp",
         linkedinLink: "https://www.linkedin.com/company/gopali-youth-welfare-society/mycompany/"
     },{

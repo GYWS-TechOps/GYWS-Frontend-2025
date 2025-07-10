@@ -1,5 +1,5 @@
 // import { useEffect } from 'react'
-import Member2324 from "./GB/GB.jsx";
+import Member2425 from "./GB/GB.jsx";
 import Advisory from "./Advisory/Advisory.jsx";
 import { Routes, Route, Link } from "react-router-dom";
 import Jvm from "./JVM/jvm.jsx";
@@ -191,7 +191,7 @@ function Members() {
               <h2>Intiatives</h2>
               <ul>
                 <Link
-                  to="/member/jvm"
+                  to="/member/members2024-25/jvm"
                   onClick={() => {
                     toggleSidebar();
                     scrollToTop();
@@ -203,7 +203,7 @@ function Members() {
                   </li>
                 </Link>
                 <Link
-                  to="/member/Rise"
+                  to="/member/members2024-25/Rise"
                   onClick={() => {
                     toggleSidebar();
                     scrollToTop();
@@ -215,7 +215,7 @@ function Members() {
                   </li>
                 </Link>
                 <Link
-                  to="/member/LiGHT"
+                  to="/member/members2024-25/LiGHT"
                   onClick={() => {
                     toggleSidebar();
                     scrollToTop();
@@ -232,7 +232,7 @@ function Members() {
         </div>
         <div className="main_content">
           <Routes>
-            <Route exact path="/" element={<Member2324 key={1} />} />
+            <Route exact path="/" element={<Member2425 key={1} />} />
             <Route exact path="/Advisory" element={<Advisory key={4} />} />
             <Route exact path="/jvm" element={<Jvm key={5} />} />
             <Route exact path="/Rise" element={<Rise key={6} />} />
