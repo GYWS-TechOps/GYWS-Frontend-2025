@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import Card from "../components/shared/Card";
+import Card from "../components/Card";
 import HCard from "../../HeaderCard/HCard.jsx";
 import { membersAPI } from "../utils/apiService";
 
