@@ -10,7 +10,7 @@ import Rise from "./Rise/Rise";
 import Light from "./Light/Light";
 import Prayas from "./Prayas/Prayas";
 
-function DynamicMembers() {
+function Members() {
   document.title = "Members | GYWS";
   let menuRef = useRef();
   const location = useLocation();
@@ -338,4 +338,4 @@ function DynamicMembers() {
   );
 }
 
-export default DynamicMembers;
+export default Members;
