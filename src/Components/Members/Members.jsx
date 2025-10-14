@@ -14,7 +14,7 @@ function Members() {
   document.title = "Members | GYWS";
   let menuRef = useRef();
   const location = useLocation();
-  
+  const API_URL = `${process.env.REACT_APP_API_URL || 'http://localhost:8000'}/api/members`;
   // Extract year from URL path
   const getYearFromPath = () => {
     const pathParts = location.pathname.split('/');
@@ -129,7 +129,7 @@ function Members() {
         console.log('DynamicMembers: Starting to fetch years...');
         
         // Test basic API connectivity first
-        const testResponse = await fetch('http://localhost:8000/api/members');
+        const testResponse = await fetch({API_URL});
         console.log('API test response status:', testResponse.status);
         
         if (!testResponse.ok) {
