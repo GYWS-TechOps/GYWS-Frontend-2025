@@ -27,9 +27,7 @@ export default function Light() {
         
         // Extract LiGHT team members
         const lightTeamMembers = groupedMembers["LiGHT"] || {};
-        const topMembers = [];
-        const otherMembers = [];
-        
+
         // Use Maps to ensure each member appears only once, even if they have multiple positions
         const topMembersMap = new Map();
         const otherMembersMap = new Map();

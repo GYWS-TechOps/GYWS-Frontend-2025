@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useRef } from "react";
-import { Routes, Route, Link, useParams, Navigate, useLocation } from "react-router-dom";
+import React, { useState, useEffect, useRef, useCallback } from "react";
+import { Routes, Route, Link, Navigate, useLocation } from "react-router-dom";
 import "./Members.css";
 import logo from "./hands.png";
 import { membersAPI } from "./utils/apiService";
@@ -16,14 +16,14 @@ function Members() {
   const location = useLocation();
   const API_URL = `${process.env.REACT_APP_API_URL || 'http://localhost:8000'}/api/members`;
   // Extract year from URL path
-  const getYearFromPath = () => {
+  const getYearFromPath = useCallback(() => {
     const pathParts = location.pathname.split('/');
     const yearIndex = pathParts.findIndex(part => part === 'member') + 1;
     if (yearIndex > 0 && pathParts[yearIndex] && !isNaN(pathParts[yearIndex])) {
       return parseInt(pathParts[yearIndex]);
     }
     return null;
-  };
+  }, [location.pathname]);
   const [availableYears, setAvailableYears] = useState([]);
   const [currentYear, setCurrentYear] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -163,7 +163,7 @@ function Members() {
     };
 
     fetchYears();
-  }, []);
+  }, [API_URL, getYearFromPath]);
 
   // Update currentYear when URL changes
   useEffect(() => {
@@ -174,7 +174,7 @@ function Members() {
         checkTeamAvailability(urlYear);
       }
     }
-  }, [location.pathname, availableYears]);
+  }, [location.pathname, availableYears, currentYear, getYearFromPath]);
 
   useEffect(() => {
     window.scrollTo(0, 0);
